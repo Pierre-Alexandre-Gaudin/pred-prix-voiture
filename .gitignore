@@ -1,4 +1,5 @@
 env/
 kaggle.json
 data/*.csv
-data/*.zip
+data/*.zipdata/vehicles.csv
+data/craigslist-carstrucks-data.zip
